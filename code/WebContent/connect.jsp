@@ -72,19 +72,19 @@
 					style=";text-autospace:ideograph-other;text-align:left;line-height:22px">
 					<span
 						style=";color:rgb(0,0,0);font-weight:normal;font-style:normal;font-size:14px;font-family:'宋体'">QQ：</span><span
-						style=";color:rgb(0,0,0);font-weight:normal;font-style:normal;font-size:14px;font-family:'宋体'">1193284480&nbsp;&nbsp;</span><span
+						style=";color:rgb(0,0,0);font-weight:normal;font-style:normal;font-size:14px;font-family:'宋体'">1752950802&nbsp;&nbsp;</span><span
 						style=";color:rgb(0,0,0);font-weight:normal;font-style:normal;font-size:14px;font-family:'宋体'">&nbsp;</span>
 				</p>
 				<p
 					style=";text-autospace:ideograph-other;text-align:left;line-height:22px">
 					<span
 						style=";color:rgb(0,0,0);font-weight:normal;font-style:normal;font-size:14px;font-family:'宋体'">网址:</span><span
-						style=";color:rgb(0,0,0);font-weight:normal;font-style:normal;font-size:14px;font-family:'宋体'">http://programmer.ischoolbar.com</span>
+						style=";color:rgb(0,0,0);font-weight:normal;font-style:normal;font-size:14px;font-family:'宋体'">https://www.sdu.edu.cn/</span>
 				</p>
 				<p
 					style=";text-autospace:ideograph-other;text-align:left;line-height:22px">
 					<span
-						style=";color:rgb(0,0,0);font-weight:normal;font-style:normal;font-size:14px;font-family:'宋体'">名称：猿来入此</span>
+						style=";color:rgb(0,0,0);font-weight:normal;font-style:normal;font-size:14px;font-family:'宋体'">名称：八哥车间</span>
 				</p>
 			</div>
 		</div>
